@@ -1,4 +1,4 @@
-Flask==1.0.3
+Flask==2.3.2
 pandas==1.0.3
 pandas-profiling==1.4.3
 request==2019.4.13
